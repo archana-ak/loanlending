@@ -1,0 +1,76 @@
+[11-May-2020 09:08:40 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export/config.php on line 7
+[11-May-2020 09:08:40 America/New_York] PHP Stack trace:
+[11-May-2020 09:08:40 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export/excel.php:0
+[11-May-2020 09:08:40 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export/excel.php:2
+[11-May-2020 09:08:40 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export/config.php:7
+[11-May-2020 09:08:42 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export/config.php on line 7
+[11-May-2020 09:08:42 America/New_York] PHP Stack trace:
+[11-May-2020 09:08:42 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export/export.php:0
+[11-May-2020 09:08:42 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export/export.php:2
+[11-May-2020 09:08:42 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export/config.php:7
+[11-May-2020 09:08:42 America/New_York] PHP Notice:  Undefined variable: header in /home/kamluzmh/device.digitalzilla.xyz/admin/export/export.php on line 15
+[11-May-2020 09:08:42 America/New_York] PHP Stack trace:
+[11-May-2020 09:08:42 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export/export.php:0
+[11-May-2020 09:08:42 America/New_York] PHP Warning:  fputcsv() expects parameter 2 to be array, null given in /home/kamluzmh/device.digitalzilla.xyz/admin/export/export.php on line 15
+[11-May-2020 09:08:42 America/New_York] PHP Stack trace:
+[11-May-2020 09:08:42 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export/export.php:0
+[11-May-2020 09:08:42 America/New_York] PHP   2. fputcsv() /home/kamluzmh/device.digitalzilla.xyz/admin/export/export.php:15
+[11-May-2020 09:14:44 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export/config.php on line 7
+[11-May-2020 09:14:44 America/New_York] PHP Stack trace:
+[11-May-2020 09:14:44 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export/excel.php:0
+[11-May-2020 09:14:44 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export/excel.php:2
+[11-May-2020 09:14:44 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export/config.php:7
+[12-May-2020 01:40:08 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export/config.php on line 7
+[12-May-2020 01:40:08 America/New_York] PHP Stack trace:
+[12-May-2020 01:40:08 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export/excel.php:0
+[12-May-2020 01:40:08 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export/excel.php:2
+[12-May-2020 01:40:08 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export/config.php:7
+[12-May-2020 01:40:19 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export/config.php on line 7
+[12-May-2020 01:40:19 America/New_York] PHP Stack trace:
+[12-May-2020 01:40:19 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export/export.php:0
+[12-May-2020 01:40:19 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export/export.php:2
+[12-May-2020 01:40:19 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export/config.php:7
+[12-May-2020 01:40:19 America/New_York] PHP Notice:  Undefined variable: header in /home/kamluzmh/device.digitalzilla.xyz/admin/export/export.php on line 15
+[12-May-2020 01:40:19 America/New_York] PHP Stack trace:
+[12-May-2020 01:40:19 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export/export.php:0
+[12-May-2020 01:40:19 America/New_York] PHP Warning:  fputcsv() expects parameter 2 to be array, null given in /home/kamluzmh/device.digitalzilla.xyz/admin/export/export.php on line 15
+[12-May-2020 01:40:19 America/New_York] PHP Stack trace:
+[12-May-2020 01:40:19 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export/export.php:0
+[12-May-2020 01:40:19 America/New_York] PHP   2. fputcsv() /home/kamluzmh/device.digitalzilla.xyz/admin/export/export.php:15
+[12-May-2020 03:27:41 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export/config.php on line 7
+[12-May-2020 03:27:41 America/New_York] PHP Stack trace:
+[12-May-2020 03:27:41 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export/excel.php:0
+[12-May-2020 03:27:41 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export/excel.php:2
+[12-May-2020 03:27:41 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export/config.php:7
+[12-May-2020 03:27:43 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export/config.php on line 7
+[12-May-2020 03:27:43 America/New_York] PHP Stack trace:
+[12-May-2020 03:27:43 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export/export.php:0
+[12-May-2020 03:27:43 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export/export.php:2
+[12-May-2020 03:27:43 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export/config.php:7
+[12-May-2020 03:27:43 America/New_York] PHP Notice:  Undefined variable: header in /home/kamluzmh/device.digitalzilla.xyz/admin/export/export.php on line 15
+[12-May-2020 03:27:43 America/New_York] PHP Stack trace:
+[12-May-2020 03:27:43 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export/export.php:0
+[12-May-2020 03:27:43 America/New_York] PHP Warning:  fputcsv() expects parameter 2 to be array, null given in /home/kamluzmh/device.digitalzilla.xyz/admin/export/export.php on line 15
+[12-May-2020 03:27:43 America/New_York] PHP Stack trace:
+[12-May-2020 03:27:43 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export/export.php:0
+[12-May-2020 03:27:43 America/New_York] PHP   2. fputcsv() /home/kamluzmh/device.digitalzilla.xyz/admin/export/export.php:15
+[12-May-2020 07:23:00 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export/config.php on line 7
+[12-May-2020 07:23:00 America/New_York] PHP Stack trace:
+[12-May-2020 07:23:00 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export/excel.php:0
+[12-May-2020 07:23:00 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export/excel.php:2
+[12-May-2020 07:23:00 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export/config.php:7
+[12-May-2020 07:23:02 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export/config.php on line 7
+[12-May-2020 07:23:02 America/New_York] PHP Stack trace:
+[12-May-2020 07:23:02 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export/export.php:0
+[12-May-2020 07:23:02 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export/export.php:2
+[12-May-2020 07:23:02 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export/config.php:7
+[12-May-2020 08:05:03 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/export/config.php on line 7
+[12-May-2020 08:05:03 America/New_York] PHP Stack trace:
+[12-May-2020 08:05:03 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/export/excel.php:0
+[12-May-2020 08:05:03 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/export/excel.php:2
+[12-May-2020 08:05:03 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/export/config.php:7
+[12-May-2020 08:05:06 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/export/config.php on line 7
+[12-May-2020 08:05:06 America/New_York] PHP Stack trace:
+[12-May-2020 08:05:06 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/export/export.php:0
+[12-May-2020 08:05:06 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/export/export.php:2
+[12-May-2020 08:05:06 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/export/config.php:7

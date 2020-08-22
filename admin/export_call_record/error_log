@@ -1,0 +1,73 @@
+[24-May-2020 10:22:28 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/config.php on line 7
+[24-May-2020 10:22:28 America/New_York] PHP Stack trace:
+[24-May-2020 10:22:28 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php:0
+[24-May-2020 10:22:28 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php:3
+[24-May-2020 10:22:28 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/config.php:7
+[24-May-2020 10:22:28 America/New_York] PHP Notice:  Undefined variable: sdate in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php on line 49
+[24-May-2020 10:22:28 America/New_York] PHP Stack trace:
+[24-May-2020 10:22:28 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php:0
+[24-May-2020 10:22:28 America/New_York] PHP Notice:  Undefined variable: edate in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php on line 49
+[24-May-2020 10:22:28 America/New_York] PHP Stack trace:
+[24-May-2020 10:22:28 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php:0
+[24-May-2020 10:22:28 America/New_York] PHP Notice:  Undefined variable: sdate in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php on line 57
+[24-May-2020 10:22:28 America/New_York] PHP Stack trace:
+[24-May-2020 10:22:28 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php:0
+[24-May-2020 10:22:28 America/New_York] PHP Notice:  Undefined variable: edate in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php on line 58
+[24-May-2020 10:22:28 America/New_York] PHP Stack trace:
+[24-May-2020 10:22:28 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php:0
+[24-May-2020 10:22:28 America/New_York] PHP Notice:  Undefined variable: sdate in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php on line 49
+[24-May-2020 10:22:28 America/New_York] PHP Stack trace:
+[24-May-2020 10:22:28 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php:0
+[24-May-2020 10:22:28 America/New_York] PHP Notice:  Undefined variable: edate in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php on line 49
+[24-May-2020 10:22:28 America/New_York] PHP Stack trace:
+[24-May-2020 10:22:28 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php:0
+[24-May-2020 10:22:28 America/New_York] PHP Notice:  Undefined variable: sdate in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php on line 57
+[24-May-2020 10:22:28 America/New_York] PHP Stack trace:
+[24-May-2020 10:22:28 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php:0
+[24-May-2020 10:22:28 America/New_York] PHP Notice:  Undefined variable: edate in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php on line 58
+[24-May-2020 10:22:28 America/New_York] PHP Stack trace:
+[24-May-2020 10:22:28 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php:0
+[24-May-2020 10:22:28 America/New_York] PHP Notice:  Undefined variable: sdate in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php on line 49
+[24-May-2020 10:22:28 America/New_York] PHP Stack trace:
+[24-May-2020 10:22:28 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php:0
+[24-May-2020 10:22:28 America/New_York] PHP Notice:  Undefined variable: edate in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php on line 49
+[24-May-2020 10:22:28 America/New_York] PHP Stack trace:
+[24-May-2020 10:22:28 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php:0
+[24-May-2020 10:22:28 America/New_York] PHP Notice:  Undefined variable: sdate in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php on line 57
+[24-May-2020 10:22:28 America/New_York] PHP Stack trace:
+[24-May-2020 10:22:28 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php:0
+[24-May-2020 10:22:28 America/New_York] PHP Notice:  Undefined variable: edate in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php on line 58
+[24-May-2020 10:22:28 America/New_York] PHP Stack trace:
+[24-May-2020 10:22:28 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php:0
+[24-May-2020 10:22:28 America/New_York] PHP Notice:  Undefined variable: sdate in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php on line 49
+[24-May-2020 10:22:28 America/New_York] PHP Stack trace:
+[24-May-2020 10:22:28 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php:0
+[24-May-2020 10:22:28 America/New_York] PHP Notice:  Undefined variable: edate in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php on line 49
+[24-May-2020 10:22:28 America/New_York] PHP Stack trace:
+[24-May-2020 10:22:28 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php:0
+[24-May-2020 10:22:28 America/New_York] PHP Notice:  Undefined variable: sdate in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php on line 57
+[24-May-2020 10:22:28 America/New_York] PHP Stack trace:
+[24-May-2020 10:22:28 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php:0
+[24-May-2020 10:22:28 America/New_York] PHP Notice:  Undefined variable: edate in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php on line 58
+[24-May-2020 10:22:28 America/New_York] PHP Stack trace:
+[24-May-2020 10:22:28 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php:0
+[24-May-2020 10:37:43 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/config.php on line 7
+[24-May-2020 10:37:43 America/New_York] PHP Stack trace:
+[24-May-2020 10:37:43 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php:0
+[24-May-2020 10:37:43 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php:3
+[24-May-2020 10:37:43 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/config.php:7
+[24-May-2020 10:44:23 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/config.php on line 7
+[24-May-2020 10:44:23 America/New_York] PHP Stack trace:
+[24-May-2020 10:44:23 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php:0
+[24-May-2020 10:44:23 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php:3
+[24-May-2020 10:44:23 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/config.php:7
+[24-May-2020 10:44:28 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/config.php on line 7
+[24-May-2020 10:44:28 America/New_York] PHP Stack trace:
+[24-May-2020 10:44:28 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/export.php:0
+[24-May-2020 10:44:28 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/export.php:3
+[24-May-2020 10:44:28 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/config.php:7
+[24-May-2020 15:17:51 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/config.php on line 7
+[24-May-2020 15:17:51 America/New_York] PHP Stack trace:
+[24-May-2020 15:17:51 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php:0
+[24-May-2020 15:17:51 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/excel.php:3
+[24-May-2020 15:17:51 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_record/config.php:7

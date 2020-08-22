@@ -1,0 +1,112 @@
+[11-May-2020 07:29:06 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php on line 7
+[11-May-2020 07:29:06 America/New_York] PHP Stack trace:
+[11-May-2020 07:29:06 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/excel.php:0
+[11-May-2020 07:29:06 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/excel.php:2
+[11-May-2020 07:29:06 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php:7
+[11-May-2020 07:52:17 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php on line 7
+[11-May-2020 07:52:17 America/New_York] PHP Stack trace:
+[11-May-2020 07:52:17 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/excel.php:0
+[11-May-2020 07:52:17 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/excel.php:2
+[11-May-2020 07:52:17 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php:7
+[12-May-2020 05:46:13 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php on line 7
+[12-May-2020 05:46:13 America/New_York] PHP Stack trace:
+[12-May-2020 05:46:13 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/excel.php:0
+[12-May-2020 05:46:13 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/excel.php:2
+[12-May-2020 05:46:13 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php:7
+[12-May-2020 05:46:16 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php on line 7
+[12-May-2020 05:46:16 America/New_York] PHP Stack trace:
+[12-May-2020 05:46:16 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/export.php:0
+[12-May-2020 05:46:16 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/export.php:3
+[12-May-2020 05:46:16 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php:7
+[12-May-2020 05:46:16 America/New_York] PHP Notice:  Undefined variable: header in /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/export.php on line 16
+[12-May-2020 05:46:16 America/New_York] PHP Stack trace:
+[12-May-2020 05:46:16 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/export.php:0
+[12-May-2020 05:46:16 America/New_York] PHP Warning:  fputcsv() expects parameter 2 to be array, null given in /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/export.php on line 16
+[12-May-2020 05:46:16 America/New_York] PHP Stack trace:
+[12-May-2020 05:46:16 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/export.php:0
+[12-May-2020 05:46:16 America/New_York] PHP   2. fputcsv() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/export.php:16
+[12-May-2020 07:47:16 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php on line 7
+[12-May-2020 07:47:16 America/New_York] PHP Stack trace:
+[12-May-2020 07:47:16 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/excel.php:0
+[12-May-2020 07:47:16 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/excel.php:2
+[12-May-2020 07:47:16 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php:7
+[12-May-2020 07:47:18 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php on line 7
+[12-May-2020 07:47:18 America/New_York] PHP Stack trace:
+[12-May-2020 07:47:18 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/export.php:0
+[12-May-2020 07:47:18 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/export.php:3
+[12-May-2020 07:47:18 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php:7
+[19-May-2020 04:58:31 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php on line 7
+[19-May-2020 04:58:31 America/New_York] PHP Stack trace:
+[19-May-2020 04:58:31 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/excel.php:0
+[19-May-2020 04:58:31 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/excel.php:2
+[19-May-2020 04:58:31 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php:7
+[19-May-2020 04:58:37 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php on line 7
+[19-May-2020 04:58:37 America/New_York] PHP Stack trace:
+[19-May-2020 04:58:37 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/export.php:0
+[19-May-2020 04:58:37 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/export.php:3
+[19-May-2020 04:58:37 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php:7
+[31-May-2020 05:02:21 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php on line 7
+[31-May-2020 05:02:21 America/New_York] PHP Stack trace:
+[31-May-2020 05:02:21 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/excel.php:0
+[31-May-2020 05:02:21 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/excel.php:2
+[31-May-2020 05:02:21 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php:7
+[31-May-2020 05:02:24 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php on line 7
+[31-May-2020 05:02:24 America/New_York] PHP Stack trace:
+[31-May-2020 05:02:24 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/export.php:0
+[31-May-2020 05:02:24 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/export.php:3
+[31-May-2020 05:02:24 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php:7
+[31-May-2020 05:02:26 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php on line 7
+[31-May-2020 05:02:26 America/New_York] PHP Stack trace:
+[31-May-2020 05:02:26 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/export.php:0
+[31-May-2020 05:02:26 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/export.php:3
+[31-May-2020 05:02:26 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php:7
+[31-May-2020 05:02:26 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php on line 7
+[31-May-2020 05:02:26 America/New_York] PHP Stack trace:
+[31-May-2020 05:02:26 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/export.php:0
+[31-May-2020 05:02:26 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/export.php:3
+[31-May-2020 05:02:26 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php:7
+[31-May-2020 05:02:28 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php on line 7
+[31-May-2020 05:02:28 America/New_York] PHP Stack trace:
+[31-May-2020 05:02:28 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/export.php:0
+[31-May-2020 05:02:28 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/export.php:3
+[31-May-2020 05:02:28 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php:7
+[31-May-2020 05:15:49 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php on line 7
+[31-May-2020 05:15:49 America/New_York] PHP Stack trace:
+[31-May-2020 05:15:49 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/excel.php:0
+[31-May-2020 05:15:49 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/excel.php:2
+[31-May-2020 05:15:49 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php:7
+[31-May-2020 05:15:51 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php on line 7
+[31-May-2020 05:15:51 America/New_York] PHP Stack trace:
+[31-May-2020 05:15:51 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/export.php:0
+[31-May-2020 05:15:51 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/export.php:3
+[31-May-2020 05:15:51 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php:7
+[31-May-2020 05:15:54 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php on line 7
+[31-May-2020 05:15:54 America/New_York] PHP Stack trace:
+[31-May-2020 05:15:54 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/export.php:0
+[31-May-2020 05:15:54 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/export.php:3
+[31-May-2020 05:15:54 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php:7
+[31-May-2020 05:15:55 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php on line 7
+[31-May-2020 05:15:55 America/New_York] PHP Stack trace:
+[31-May-2020 05:15:55 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/export.php:0
+[31-May-2020 05:15:55 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/export.php:3
+[31-May-2020 05:15:55 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php:7
+[31-May-2020 05:15:57 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php on line 7
+[31-May-2020 05:15:57 America/New_York] PHP Stack trace:
+[31-May-2020 05:15:57 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/export.php:0
+[31-May-2020 05:15:57 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/export.php:3
+[31-May-2020 05:15:57 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php:7
+[02-Jun-2020 03:42:31 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php on line 7
+[02-Jun-2020 03:42:31 America/New_York] PHP Stack trace:
+[02-Jun-2020 03:42:31 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/excel.php:0
+[02-Jun-2020 03:42:31 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/excel.php:2
+[02-Jun-2020 03:42:31 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php:7
+[02-Jun-2020 03:42:34 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php on line 7
+[02-Jun-2020 03:42:34 America/New_York] PHP Stack trace:
+[02-Jun-2020 03:42:34 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/export.php:0
+[02-Jun-2020 03:42:34 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/export.php:3
+[02-Jun-2020 03:42:34 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_emp/config.php:7
+[08-Aug-2020 06:00:42 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/maayolife.com/paarth_management/admin/export_emp/config.php on line 7
+[08-Aug-2020 06:00:42 America/New_York] PHP Stack trace:
+[08-Aug-2020 06:00:42 America/New_York] PHP   1. {main}() /home/kamluzmh/maayolife.com/paarth_management/admin/export_emp/excel.php:0
+[08-Aug-2020 06:00:42 America/New_York] PHP   2. require() /home/kamluzmh/maayolife.com/paarth_management/admin/export_emp/excel.php:2
+[08-Aug-2020 06:00:42 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/maayolife.com/paarth_management/admin/export_emp/config.php:7

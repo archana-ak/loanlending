@@ -1,0 +1,163 @@
+[24-May-2020 07:48:54 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php on line 7
+[24-May-2020 07:48:54 America/New_York] PHP Stack trace:
+[24-May-2020 07:48:54 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:0
+[24-May-2020 07:48:54 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:3
+[24-May-2020 07:48:54 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php:7
+[24-May-2020 07:49:13 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php on line 7
+[24-May-2020 07:49:13 America/New_York] PHP Stack trace:
+[24-May-2020 07:49:13 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:0
+[24-May-2020 07:49:13 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:3
+[24-May-2020 07:49:13 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php:7
+[24-May-2020 07:49:15 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php on line 7
+[24-May-2020 07:49:15 America/New_York] PHP Stack trace:
+[24-May-2020 07:49:15 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/export.php:0
+[24-May-2020 07:49:15 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/export.php:3
+[24-May-2020 07:49:15 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php:7
+[24-May-2020 09:05:51 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php on line 7
+[24-May-2020 09:05:51 America/New_York] PHP Stack trace:
+[24-May-2020 09:05:51 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:0
+[24-May-2020 09:05:51 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:3
+[24-May-2020 09:05:51 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php:7
+[24-May-2020 09:06:00 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php on line 7
+[24-May-2020 09:06:00 America/New_York] PHP Stack trace:
+[24-May-2020 09:06:00 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/export.php:0
+[24-May-2020 09:06:00 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/export.php:3
+[24-May-2020 09:06:00 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php:7
+[24-May-2020 09:11:05 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php on line 7
+[24-May-2020 09:11:05 America/New_York] PHP Stack trace:
+[24-May-2020 09:11:05 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:0
+[24-May-2020 09:11:05 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:3
+[24-May-2020 09:11:05 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php:7
+[24-May-2020 09:17:13 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php on line 7
+[24-May-2020 09:17:13 America/New_York] PHP Stack trace:
+[24-May-2020 09:17:13 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:0
+[24-May-2020 09:17:13 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:3
+[24-May-2020 09:17:13 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php:7
+[24-May-2020 09:17:45 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php on line 7
+[24-May-2020 09:17:45 America/New_York] PHP Stack trace:
+[24-May-2020 09:17:45 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:0
+[24-May-2020 09:17:45 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:3
+[24-May-2020 09:17:45 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php:7
+[24-May-2020 09:17:51 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php on line 7
+[24-May-2020 09:17:51 America/New_York] PHP Stack trace:
+[24-May-2020 09:17:51 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/export.php:0
+[24-May-2020 09:17:51 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/export.php:3
+[24-May-2020 09:17:51 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php:7
+[24-May-2020 09:17:53 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php on line 7
+[24-May-2020 09:17:53 America/New_York] PHP Stack trace:
+[24-May-2020 09:17:53 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/export.php:0
+[24-May-2020 09:17:53 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/export.php:3
+[24-May-2020 09:17:53 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php:7
+[24-May-2020 09:23:32 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php on line 7
+[24-May-2020 09:23:32 America/New_York] PHP Stack trace:
+[24-May-2020 09:23:32 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:0
+[24-May-2020 09:23:32 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:3
+[24-May-2020 09:23:32 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php:7
+[24-May-2020 09:23:32 America/New_York] PHP Notice:  Undefined variable: sdate in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php on line 48
+[24-May-2020 09:23:32 America/New_York] PHP Stack trace:
+[24-May-2020 09:23:32 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:0
+[24-May-2020 09:23:32 America/New_York] PHP Notice:  Undefined variable: edate in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php on line 48
+[24-May-2020 09:23:32 America/New_York] PHP Stack trace:
+[24-May-2020 09:23:32 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:0
+[24-May-2020 09:23:32 America/New_York] PHP Notice:  Undefined variable: sdate in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php on line 48
+[24-May-2020 09:23:32 America/New_York] PHP Stack trace:
+[24-May-2020 09:23:32 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:0
+[24-May-2020 09:23:32 America/New_York] PHP Notice:  Undefined variable: edate in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php on line 48
+[24-May-2020 09:23:32 America/New_York] PHP Stack trace:
+[24-May-2020 09:23:32 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:0
+[24-May-2020 09:23:32 America/New_York] PHP Notice:  Undefined variable: sdate in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php on line 48
+[24-May-2020 09:23:32 America/New_York] PHP Stack trace:
+[24-May-2020 09:23:32 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:0
+[24-May-2020 09:23:32 America/New_York] PHP Notice:  Undefined variable: edate in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php on line 48
+[24-May-2020 09:23:32 America/New_York] PHP Stack trace:
+[24-May-2020 09:23:32 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:0
+[24-May-2020 09:23:32 America/New_York] PHP Notice:  Undefined variable: sdate in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php on line 48
+[24-May-2020 09:23:32 America/New_York] PHP Stack trace:
+[24-May-2020 09:23:32 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:0
+[24-May-2020 09:23:32 America/New_York] PHP Notice:  Undefined variable: edate in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php on line 48
+[24-May-2020 09:23:32 America/New_York] PHP Stack trace:
+[24-May-2020 09:23:32 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:0
+[24-May-2020 10:52:10 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php on line 7
+[24-May-2020 10:52:10 America/New_York] PHP Stack trace:
+[24-May-2020 10:52:10 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:0
+[24-May-2020 10:52:10 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:3
+[24-May-2020 10:52:10 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php:7
+[24-May-2020 10:53:30 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php on line 7
+[24-May-2020 10:53:30 America/New_York] PHP Stack trace:
+[24-May-2020 10:53:30 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:0
+[24-May-2020 10:53:30 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:3
+[24-May-2020 10:53:30 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php:7
+[24-May-2020 10:55:37 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php on line 7
+[24-May-2020 10:55:37 America/New_York] PHP Stack trace:
+[24-May-2020 10:55:37 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:0
+[24-May-2020 10:55:37 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:3
+[24-May-2020 10:55:37 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php:7
+[24-May-2020 11:03:33 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php on line 7
+[24-May-2020 11:03:33 America/New_York] PHP Stack trace:
+[24-May-2020 11:03:33 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:0
+[24-May-2020 11:03:33 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:3
+[24-May-2020 11:03:33 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php:7
+[24-May-2020 11:07:33 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php on line 7
+[24-May-2020 11:07:33 America/New_York] PHP Stack trace:
+[24-May-2020 11:07:33 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:0
+[24-May-2020 11:07:33 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:3
+[24-May-2020 11:07:33 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php:7
+[24-May-2020 11:07:36 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php on line 7
+[24-May-2020 11:07:36 America/New_York] PHP Stack trace:
+[24-May-2020 11:07:36 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/export.php:0
+[24-May-2020 11:07:36 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/export.php:3
+[24-May-2020 11:07:36 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php:7
+[24-May-2020 11:09:14 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php on line 7
+[24-May-2020 11:09:14 America/New_York] PHP Stack trace:
+[24-May-2020 11:09:14 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:0
+[24-May-2020 11:09:14 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:3
+[24-May-2020 11:09:14 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php:7
+[24-May-2020 15:18:06 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php on line 7
+[24-May-2020 15:18:06 America/New_York] PHP Stack trace:
+[24-May-2020 15:18:06 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:0
+[24-May-2020 15:18:06 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:3
+[24-May-2020 15:18:06 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php:7
+[24-May-2020 15:18:12 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php on line 7
+[24-May-2020 15:18:12 America/New_York] PHP Stack trace:
+[24-May-2020 15:18:12 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/export.php:0
+[24-May-2020 15:18:12 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/export.php:3
+[24-May-2020 15:18:12 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php:7
+[25-May-2020 01:40:08 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php on line 7
+[25-May-2020 01:40:08 America/New_York] PHP Stack trace:
+[25-May-2020 01:40:08 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:0
+[25-May-2020 01:40:08 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:3
+[25-May-2020 01:40:08 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php:7
+[25-May-2020 01:45:10 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php on line 7
+[25-May-2020 01:45:10 America/New_York] PHP Stack trace:
+[25-May-2020 01:45:10 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:0
+[25-May-2020 01:45:10 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:3
+[25-May-2020 01:45:10 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php:7
+[25-May-2020 01:45:17 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php on line 7
+[25-May-2020 01:45:17 America/New_York] PHP Stack trace:
+[25-May-2020 01:45:17 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:0
+[25-May-2020 01:45:17 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:3
+[25-May-2020 01:45:17 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php:7
+[25-May-2020 01:45:17 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php on line 10
+[25-May-2020 01:45:17 America/New_York] PHP Stack trace:
+[25-May-2020 01:45:17 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:0
+[25-May-2020 01:45:17 America/New_York] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:10
+[25-May-2020 01:47:52 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php on line 7
+[25-May-2020 01:47:52 America/New_York] PHP Stack trace:
+[25-May-2020 01:47:52 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:0
+[25-May-2020 01:47:52 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:3
+[25-May-2020 01:47:52 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php:7
+[25-May-2020 01:48:00 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php on line 7
+[25-May-2020 01:48:00 America/New_York] PHP Stack trace:
+[25-May-2020 01:48:00 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/export.php:0
+[25-May-2020 01:48:00 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/export.php:3
+[25-May-2020 01:48:00 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php:7
+[30-May-2020 07:07:21 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php on line 7
+[30-May-2020 07:07:21 America/New_York] PHP Stack trace:
+[30-May-2020 07:07:21 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:0
+[30-May-2020 07:07:21 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:3
+[30-May-2020 07:07:21 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php:7
+[30-May-2020 07:07:38 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php on line 7
+[30-May-2020 07:07:38 America/New_York] PHP Stack trace:
+[30-May-2020 07:07:38 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:0
+[30-May-2020 07:07:38 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/excel.php:3
+[30-May-2020 07:07:38 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_call_count/config.php:7

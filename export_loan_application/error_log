@@ -1,0 +1,77 @@
+[12-May-2020 06:14:50 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_loan_application/config.php on line 7
+[12-May-2020 06:14:50 America/New_York] PHP Stack trace:
+[12-May-2020 06:14:50 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_loan_application/excel.php:0
+[12-May-2020 06:14:50 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_loan_application/excel.php:2
+[12-May-2020 06:14:50 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_loan_application/config.php:7
+[12-May-2020 06:15:41 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_loan_application/config.php on line 7
+[12-May-2020 06:15:41 America/New_York] PHP Stack trace:
+[12-May-2020 06:15:41 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_loan_application/excel.php:0
+[12-May-2020 06:15:41 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_loan_application/excel.php:2
+[12-May-2020 06:15:41 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_loan_application/config.php:7
+[12-May-2020 06:15:42 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_loan_application/config.php on line 7
+[12-May-2020 06:15:42 America/New_York] PHP Stack trace:
+[12-May-2020 06:15:42 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_loan_application/export.php:0
+[12-May-2020 06:15:42 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_loan_application/export.php:3
+[12-May-2020 06:15:42 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_loan_application/config.php:7
+[12-May-2020 06:15:42 America/New_York] PHP Notice:  Undefined variable: header in /home/kamluzmh/device.digitalzilla.xyz/admin/export_loan_application/export.php on line 16
+[12-May-2020 06:15:42 America/New_York] PHP Stack trace:
+[12-May-2020 06:15:42 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_loan_application/export.php:0
+[12-May-2020 06:15:42 America/New_York] PHP Warning:  fputcsv() expects parameter 2 to be array, null given in /home/kamluzmh/device.digitalzilla.xyz/admin/export_loan_application/export.php on line 16
+[12-May-2020 06:15:42 America/New_York] PHP Stack trace:
+[12-May-2020 06:15:42 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_loan_application/export.php:0
+[12-May-2020 06:15:42 America/New_York] PHP   2. fputcsv() /home/kamluzmh/device.digitalzilla.xyz/admin/export_loan_application/export.php:16
+[12-May-2020 06:27:18 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_loan_application/config.php on line 7
+[12-May-2020 06:27:18 America/New_York] PHP Stack trace:
+[12-May-2020 06:27:18 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_loan_application/excel.php:0
+[12-May-2020 06:27:18 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_loan_application/excel.php:2
+[12-May-2020 06:27:18 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_loan_application/config.php:7
+[12-May-2020 08:01:26 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_loan_application/config.php on line 7
+[12-May-2020 08:01:26 America/New_York] PHP Stack trace:
+[12-May-2020 08:01:26 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_loan_application/excel.php:0
+[12-May-2020 08:01:26 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_loan_application/excel.php:2
+[12-May-2020 08:01:26 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_loan_application/config.php:7
+[12-May-2020 08:01:28 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/admin/export_loan_application/config.php on line 7
+[12-May-2020 08:01:28 America/New_York] PHP Stack trace:
+[12-May-2020 08:01:28 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/admin/export_loan_application/export.php:0
+[12-May-2020 08:01:28 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/admin/export_loan_application/export.php:3
+[12-May-2020 08:01:28 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/admin/export_loan_application/config.php:7
+[12-May-2020 08:05:32 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/export_loan_application/config.php on line 7
+[12-May-2020 08:05:32 America/New_York] PHP Stack trace:
+[12-May-2020 08:05:32 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/export_loan_application/excel.php:0
+[12-May-2020 08:05:32 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/export_loan_application/excel.php:2
+[12-May-2020 08:05:32 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/export_loan_application/config.php:7
+[12-May-2020 08:05:34 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/export_loan_application/config.php on line 7
+[12-May-2020 08:05:34 America/New_York] PHP Stack trace:
+[12-May-2020 08:05:34 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/export_loan_application/export.php:0
+[12-May-2020 08:05:34 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/export_loan_application/export.php:3
+[12-May-2020 08:05:34 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/export_loan_application/config.php:7
+[22-May-2020 05:37:32 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/export_loan_application/config.php on line 7
+[22-May-2020 05:37:32 America/New_York] PHP Stack trace:
+[22-May-2020 05:37:32 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/export_loan_application/excel.php:0
+[22-May-2020 05:37:32 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/export_loan_application/excel.php:2
+[22-May-2020 05:37:32 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/export_loan_application/config.php:7
+[22-May-2020 05:41:14 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/export_loan_application/config.php on line 7
+[22-May-2020 05:41:14 America/New_York] PHP Stack trace:
+[22-May-2020 05:41:14 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/export_loan_application/excel.php:0
+[22-May-2020 05:41:14 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/export_loan_application/excel.php:2
+[22-May-2020 05:41:14 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/export_loan_application/config.php:7
+[22-May-2020 05:41:27 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/export_loan_application/config.php on line 7
+[22-May-2020 05:41:27 America/New_York] PHP Stack trace:
+[22-May-2020 05:41:27 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/export_loan_application/export.php:0
+[22-May-2020 05:41:27 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/export_loan_application/export.php:3
+[22-May-2020 05:41:27 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/export_loan_application/config.php:7
+[22-May-2020 05:45:06 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/export_loan_application/config.php on line 7
+[22-May-2020 05:45:06 America/New_York] PHP Stack trace:
+[22-May-2020 05:45:06 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/export_loan_application/excel.php:0
+[22-May-2020 05:45:06 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/export_loan_application/excel.php:2
+[22-May-2020 05:45:06 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/export_loan_application/config.php:7
+[22-May-2020 05:45:58 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/export_loan_application/config.php on line 7
+[22-May-2020 05:45:58 America/New_York] PHP Stack trace:
+[22-May-2020 05:45:58 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/export_loan_application/export.php:0
+[22-May-2020 05:45:58 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/export_loan_application/export.php:3
+[22-May-2020 05:45:58 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/export_loan_application/config.php:7
+[22-May-2020 05:46:39 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/export_loan_application/config.php on line 7
+[22-May-2020 05:46:39 America/New_York] PHP Stack trace:
+[22-May-2020 05:46:39 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/export_loan_application/export.php:0
+[22-May-2020 05:46:39 America/New_York] PHP   2. require() /home/kamluzmh/device.digitalzilla.xyz/export_loan_application/export.php:3
+[22-May-2020 05:46:39 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/export_loan_application/config.php:7

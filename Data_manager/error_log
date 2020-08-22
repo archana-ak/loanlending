@@ -1,0 +1,747 @@
+[14-May-2020 09:26:03 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php on line 6
+[14-May-2020 09:26:03 America/New_York] PHP Stack trace:
+[14-May-2020 09:26:03 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:26:03 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:3
+[14-May-2020 09:26:03 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php:6
+[14-May-2020 09:26:03 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[14-May-2020 09:26:03 America/New_York] PHP Stack trace:
+[14-May-2020 09:26:03 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:26:03 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[14-May-2020 09:26:03 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 102
+[14-May-2020 09:26:03 America/New_York] PHP Stack trace:
+[14-May-2020 09:26:03 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:26:03 America/New_York] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:102
+[14-May-2020 09:26:03 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 103
+[14-May-2020 09:26:03 America/New_York] PHP Stack trace:
+[14-May-2020 09:26:03 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:26:03 America/New_York] PHP   2. mysqli_fetch_array() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:103
+[14-May-2020 09:26:45 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php on line 6
+[14-May-2020 09:26:45 America/New_York] PHP Stack trace:
+[14-May-2020 09:26:45 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:26:45 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:3
+[14-May-2020 09:26:45 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php:6
+[14-May-2020 09:26:45 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 102
+[14-May-2020 09:26:45 America/New_York] PHP Stack trace:
+[14-May-2020 09:26:45 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:26:45 America/New_York] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:102
+[14-May-2020 09:26:45 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 103
+[14-May-2020 09:26:45 America/New_York] PHP Stack trace:
+[14-May-2020 09:26:45 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:26:45 America/New_York] PHP   2. mysqli_fetch_array() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:103
+[14-May-2020 09:37:29 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php on line 6
+[14-May-2020 09:37:29 America/New_York] PHP Stack trace:
+[14-May-2020 09:37:29 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:37:29 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:3
+[14-May-2020 09:37:29 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php:6
+[14-May-2020 09:37:29 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[14-May-2020 09:37:29 America/New_York] PHP Stack trace:
+[14-May-2020 09:37:29 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:37:29 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[14-May-2020 09:37:29 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 102
+[14-May-2020 09:37:29 America/New_York] PHP Stack trace:
+[14-May-2020 09:37:29 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:37:29 America/New_York] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:102
+[14-May-2020 09:37:29 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 103
+[14-May-2020 09:37:29 America/New_York] PHP Stack trace:
+[14-May-2020 09:37:29 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:37:29 America/New_York] PHP   2. mysqli_fetch_array() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:103
+[14-May-2020 09:39:25 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php on line 6
+[14-May-2020 09:39:25 America/New_York] PHP Stack trace:
+[14-May-2020 09:39:25 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:39:25 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:3
+[14-May-2020 09:39:25 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php:6
+[14-May-2020 09:39:25 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[14-May-2020 09:39:25 America/New_York] PHP Stack trace:
+[14-May-2020 09:39:25 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:39:25 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[14-May-2020 09:39:25 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 102
+[14-May-2020 09:39:25 America/New_York] PHP Stack trace:
+[14-May-2020 09:39:25 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:39:25 America/New_York] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:102
+[14-May-2020 09:39:25 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 103
+[14-May-2020 09:39:25 America/New_York] PHP Stack trace:
+[14-May-2020 09:39:25 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:39:25 America/New_York] PHP   2. mysqli_fetch_array() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:103
+[14-May-2020 09:43:30 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php on line 6
+[14-May-2020 09:43:30 America/New_York] PHP Stack trace:
+[14-May-2020 09:43:30 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:43:30 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:3
+[14-May-2020 09:43:30 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php:6
+[14-May-2020 09:43:30 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[14-May-2020 09:43:30 America/New_York] PHP Stack trace:
+[14-May-2020 09:43:30 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:43:30 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[14-May-2020 09:43:30 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 102
+[14-May-2020 09:43:30 America/New_York] PHP Stack trace:
+[14-May-2020 09:43:30 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:43:30 America/New_York] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:102
+[14-May-2020 09:43:30 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 103
+[14-May-2020 09:43:30 America/New_York] PHP Stack trace:
+[14-May-2020 09:43:30 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:43:30 America/New_York] PHP   2. mysqli_fetch_array() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:103
+[14-May-2020 09:44:54 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php on line 6
+[14-May-2020 09:44:54 America/New_York] PHP Stack trace:
+[14-May-2020 09:44:54 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:44:54 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:3
+[14-May-2020 09:44:54 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php:6
+[14-May-2020 09:44:54 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[14-May-2020 09:44:54 America/New_York] PHP Stack trace:
+[14-May-2020 09:44:54 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:44:54 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[14-May-2020 09:44:54 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 102
+[14-May-2020 09:44:54 America/New_York] PHP Stack trace:
+[14-May-2020 09:44:54 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:44:54 America/New_York] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:102
+[14-May-2020 09:44:54 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 103
+[14-May-2020 09:44:54 America/New_York] PHP Stack trace:
+[14-May-2020 09:44:54 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:44:54 America/New_York] PHP   2. mysqli_fetch_array() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:103
+[14-May-2020 09:49:38 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php on line 6
+[14-May-2020 09:49:38 America/New_York] PHP Stack trace:
+[14-May-2020 09:49:38 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:49:38 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:3
+[14-May-2020 09:49:38 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php:6
+[14-May-2020 09:49:38 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 102
+[14-May-2020 09:49:38 America/New_York] PHP Stack trace:
+[14-May-2020 09:49:38 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:49:38 America/New_York] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:102
+[14-May-2020 09:49:38 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 103
+[14-May-2020 09:49:38 America/New_York] PHP Stack trace:
+[14-May-2020 09:49:38 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:49:38 America/New_York] PHP   2. mysqli_fetch_array() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:103
+[14-May-2020 09:50:54 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php on line 6
+[14-May-2020 09:50:54 America/New_York] PHP Stack trace:
+[14-May-2020 09:50:54 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:50:54 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:3
+[14-May-2020 09:50:54 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php:6
+[14-May-2020 09:50:54 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[14-May-2020 09:50:54 America/New_York] PHP Stack trace:
+[14-May-2020 09:50:54 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:50:54 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[14-May-2020 09:50:54 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 102
+[14-May-2020 09:50:54 America/New_York] PHP Stack trace:
+[14-May-2020 09:50:54 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:50:54 America/New_York] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:102
+[14-May-2020 09:50:54 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 103
+[14-May-2020 09:50:54 America/New_York] PHP Stack trace:
+[14-May-2020 09:50:54 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:50:54 America/New_York] PHP   2. mysqli_fetch_array() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:103
+[14-May-2020 09:52:57 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php on line 6
+[14-May-2020 09:52:57 America/New_York] PHP Stack trace:
+[14-May-2020 09:52:57 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:52:57 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:3
+[14-May-2020 09:52:57 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php:6
+[14-May-2020 09:52:57 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[14-May-2020 09:52:57 America/New_York] PHP Stack trace:
+[14-May-2020 09:52:57 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:52:57 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[14-May-2020 09:52:57 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 102
+[14-May-2020 09:52:57 America/New_York] PHP Stack trace:
+[14-May-2020 09:52:57 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:52:57 America/New_York] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:102
+[14-May-2020 09:52:57 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 103
+[14-May-2020 09:52:57 America/New_York] PHP Stack trace:
+[14-May-2020 09:52:57 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:52:57 America/New_York] PHP   2. mysqli_fetch_array() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:103
+[14-May-2020 09:55:22 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php on line 6
+[14-May-2020 09:55:22 America/New_York] PHP Stack trace:
+[14-May-2020 09:55:22 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:55:22 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:3
+[14-May-2020 09:55:22 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php:6
+[14-May-2020 09:55:22 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 102
+[14-May-2020 09:55:22 America/New_York] PHP Stack trace:
+[14-May-2020 09:55:22 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:55:22 America/New_York] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:102
+[14-May-2020 09:55:22 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 103
+[14-May-2020 09:55:22 America/New_York] PHP Stack trace:
+[14-May-2020 09:55:22 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:55:22 America/New_York] PHP   2. mysqli_fetch_array() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:103
+[14-May-2020 09:57:03 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php on line 6
+[14-May-2020 09:57:03 America/New_York] PHP Stack trace:
+[14-May-2020 09:57:03 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:57:03 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:3
+[14-May-2020 09:57:03 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php:6
+[14-May-2020 09:57:03 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[14-May-2020 09:57:03 America/New_York] PHP Stack trace:
+[14-May-2020 09:57:03 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:57:03 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[14-May-2020 09:57:03 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 102
+[14-May-2020 09:57:03 America/New_York] PHP Stack trace:
+[14-May-2020 09:57:03 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:57:03 America/New_York] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:102
+[14-May-2020 09:57:03 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 103
+[14-May-2020 09:57:03 America/New_York] PHP Stack trace:
+[14-May-2020 09:57:03 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:57:03 America/New_York] PHP   2. mysqli_fetch_array() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:103
+[14-May-2020 09:57:10 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php on line 6
+[14-May-2020 09:57:10 America/New_York] PHP Stack trace:
+[14-May-2020 09:57:10 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:57:10 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:3
+[14-May-2020 09:57:10 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php:6
+[14-May-2020 09:57:10 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[14-May-2020 09:57:10 America/New_York] PHP Stack trace:
+[14-May-2020 09:57:10 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:57:10 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[14-May-2020 09:57:10 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 102
+[14-May-2020 09:57:10 America/New_York] PHP Stack trace:
+[14-May-2020 09:57:10 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:57:10 America/New_York] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:102
+[14-May-2020 09:57:10 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 103
+[14-May-2020 09:57:10 America/New_York] PHP Stack trace:
+[14-May-2020 09:57:10 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:57:10 America/New_York] PHP   2. mysqli_fetch_array() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:103
+[14-May-2020 09:58:32 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php on line 6
+[14-May-2020 09:58:32 America/New_York] PHP Stack trace:
+[14-May-2020 09:58:32 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:58:32 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:3
+[14-May-2020 09:58:32 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php:6
+[14-May-2020 09:58:32 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 102
+[14-May-2020 09:58:32 America/New_York] PHP Stack trace:
+[14-May-2020 09:58:32 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:58:32 America/New_York] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:102
+[14-May-2020 09:58:32 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 102
+[14-May-2020 09:58:32 America/New_York] PHP Stack trace:
+[14-May-2020 09:58:32 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:58:32 America/New_York] PHP   2. mysqli_error() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:102
+[14-May-2020 09:58:43 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php on line 6
+[14-May-2020 09:58:43 America/New_York] PHP Stack trace:
+[14-May-2020 09:58:43 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:58:43 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:3
+[14-May-2020 09:58:43 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php:6
+[14-May-2020 09:58:43 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 102
+[14-May-2020 09:58:43 America/New_York] PHP Stack trace:
+[14-May-2020 09:58:43 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:58:43 America/New_York] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:102
+[14-May-2020 09:58:43 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 102
+[14-May-2020 09:58:43 America/New_York] PHP Stack trace:
+[14-May-2020 09:58:43 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:58:43 America/New_York] PHP   2. mysqli_error() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:102
+[14-May-2020 09:58:46 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php on line 6
+[14-May-2020 09:58:46 America/New_York] PHP Stack trace:
+[14-May-2020 09:58:46 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:58:46 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:3
+[14-May-2020 09:58:46 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php:6
+[14-May-2020 09:58:46 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 102
+[14-May-2020 09:58:46 America/New_York] PHP Stack trace:
+[14-May-2020 09:58:46 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:58:46 America/New_York] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:102
+[14-May-2020 09:58:46 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 102
+[14-May-2020 09:58:46 America/New_York] PHP Stack trace:
+[14-May-2020 09:58:46 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:58:46 America/New_York] PHP   2. mysqli_error() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:102
+[14-May-2020 09:58:52 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php on line 6
+[14-May-2020 09:58:52 America/New_York] PHP Stack trace:
+[14-May-2020 09:58:52 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:58:52 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:3
+[14-May-2020 09:58:52 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php:6
+[14-May-2020 09:58:52 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 102
+[14-May-2020 09:58:52 America/New_York] PHP Stack trace:
+[14-May-2020 09:58:52 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:58:52 America/New_York] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:102
+[14-May-2020 09:58:52 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 102
+[14-May-2020 09:58:52 America/New_York] PHP Stack trace:
+[14-May-2020 09:58:52 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:58:52 America/New_York] PHP   2. mysqli_error() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:102
+[14-May-2020 09:58:58 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php on line 6
+[14-May-2020 09:58:58 America/New_York] PHP Stack trace:
+[14-May-2020 09:58:58 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:58:58 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:3
+[14-May-2020 09:58:58 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php:6
+[14-May-2020 09:58:58 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[14-May-2020 09:58:58 America/New_York] PHP Stack trace:
+[14-May-2020 09:58:58 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:58:58 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[14-May-2020 09:58:58 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 102
+[14-May-2020 09:58:58 America/New_York] PHP Stack trace:
+[14-May-2020 09:58:58 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:58:58 America/New_York] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:102
+[14-May-2020 09:58:58 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 102
+[14-May-2020 09:58:58 America/New_York] PHP Stack trace:
+[14-May-2020 09:58:58 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:58:58 America/New_York] PHP   2. mysqli_error() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:102
+[14-May-2020 09:59:57 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php on line 6
+[14-May-2020 09:59:57 America/New_York] PHP Stack trace:
+[14-May-2020 09:59:57 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:59:57 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:3
+[14-May-2020 09:59:57 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php:6
+[14-May-2020 09:59:57 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[14-May-2020 09:59:57 America/New_York] PHP Stack trace:
+[14-May-2020 09:59:57 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:59:57 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[14-May-2020 09:59:57 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 102
+[14-May-2020 09:59:57 America/New_York] PHP Stack trace:
+[14-May-2020 09:59:57 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:59:57 America/New_York] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:102
+[14-May-2020 09:59:57 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 102
+[14-May-2020 09:59:57 America/New_York] PHP Stack trace:
+[14-May-2020 09:59:57 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 09:59:57 America/New_York] PHP   2. mysqli_error() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:102
+[14-May-2020 10:00:02 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php on line 6
+[14-May-2020 10:00:02 America/New_York] PHP Stack trace:
+[14-May-2020 10:00:02 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 10:00:02 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:3
+[14-May-2020 10:00:02 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php:6
+[14-May-2020 10:00:02 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 102
+[14-May-2020 10:00:02 America/New_York] PHP Stack trace:
+[14-May-2020 10:00:02 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 10:00:02 America/New_York] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:102
+[14-May-2020 10:00:02 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 102
+[14-May-2020 10:00:02 America/New_York] PHP Stack trace:
+[14-May-2020 10:00:02 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 10:00:02 America/New_York] PHP   2. mysqli_error() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:102
+[14-May-2020 10:02:23 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php on line 6
+[14-May-2020 10:02:23 America/New_York] PHP Stack trace:
+[14-May-2020 10:02:23 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 10:02:23 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:3
+[14-May-2020 10:02:23 America/New_York] PHP   3. mysqli_connect() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/config.php:6
+[14-May-2020 10:02:23 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 102
+[14-May-2020 10:02:23 America/New_York] PHP Stack trace:
+[14-May-2020 10:02:23 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 10:02:23 America/New_York] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:102
+[14-May-2020 10:02:23 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php on line 103
+[14-May-2020 10:02:23 America/New_York] PHP Stack trace:
+[14-May-2020 10:02:23 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 10:02:23 America/New_York] PHP   2. mysqli_fetch_array() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:103
+[14-May-2020 10:07:45 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[14-May-2020 10:07:45 America/New_York] PHP Stack trace:
+[14-May-2020 10:07:45 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 10:07:45 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[14-May-2020 10:08:04 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[14-May-2020 10:08:04 America/New_York] PHP Stack trace:
+[14-May-2020 10:08:04 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 10:08:04 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[14-May-2020 10:08:13 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[14-May-2020 10:08:13 America/New_York] PHP Stack trace:
+[14-May-2020 10:08:13 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 10:08:13 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[14-May-2020 10:08:18 America/New_York] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 2
+[14-May-2020 10:08:18 America/New_York] PHP Stack trace:
+[14-May-2020 10:08:18 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[14-May-2020 10:08:18 America/New_York] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 2
+[14-May-2020 10:08:18 America/New_York] PHP Stack trace:
+[14-May-2020 10:08:18 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[14-May-2020 19:38:18 Asia/Kolkata] PHP Notice:  Undefined variable: mysqli in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 8
+[14-May-2020 19:38:18 Asia/Kolkata] PHP Stack trace:
+[14-May-2020 19:38:18 Asia/Kolkata] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[14-May-2020 19:38:18 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 8
+[14-May-2020 19:38:18 Asia/Kolkata] PHP Stack trace:
+[14-May-2020 19:38:18 Asia/Kolkata] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[14-May-2020 19:38:18 Asia/Kolkata] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:8
+[14-May-2020 10:08:18 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[14-May-2020 10:08:18 America/New_York] PHP Stack trace:
+[14-May-2020 10:08:18 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 10:08:18 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[14-May-2020 10:08:25 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[14-May-2020 10:08:25 America/New_York] PHP Stack trace:
+[14-May-2020 10:08:25 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 10:08:25 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[14-May-2020 10:08:45 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[14-May-2020 10:08:45 America/New_York] PHP Stack trace:
+[14-May-2020 10:08:45 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 10:08:45 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[14-May-2020 10:08:48 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[14-May-2020 10:08:48 America/New_York] PHP Stack trace:
+[14-May-2020 10:08:48 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 10:08:48 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[14-May-2020 10:08:48 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[14-May-2020 10:08:48 America/New_York] PHP Stack trace:
+[14-May-2020 10:08:48 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 10:08:48 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[14-May-2020 10:08:52 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[14-May-2020 10:08:52 America/New_York] PHP Stack trace:
+[14-May-2020 10:08:52 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 10:08:52 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[14-May-2020 10:08:59 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[14-May-2020 10:08:59 America/New_York] PHP Stack trace:
+[14-May-2020 10:08:59 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 10:08:59 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[14-May-2020 10:09:28 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[14-May-2020 10:09:28 America/New_York] PHP Stack trace:
+[14-May-2020 10:09:28 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 10:09:28 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[14-May-2020 10:09:36 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[14-May-2020 10:09:36 America/New_York] PHP Stack trace:
+[14-May-2020 10:09:36 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 10:09:36 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[14-May-2020 10:09:57 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[14-May-2020 10:09:57 America/New_York] PHP Stack trace:
+[14-May-2020 10:09:57 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 10:09:57 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[14-May-2020 10:10:07 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[14-May-2020 10:10:07 America/New_York] PHP Stack trace:
+[14-May-2020 10:10:07 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 10:10:07 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[14-May-2020 10:10:38 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[14-May-2020 10:10:38 America/New_York] PHP Stack trace:
+[14-May-2020 10:10:38 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 10:10:38 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[14-May-2020 10:10:38 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/checklogin.php on line 4
+[14-May-2020 10:10:38 America/New_York] PHP Stack trace:
+[14-May-2020 10:10:38 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/add-customer.php:0
+[14-May-2020 10:10:38 America/New_York] PHP   2. check_login() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/add-customer.php:5
+[14-May-2020 10:10:43 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[14-May-2020 10:10:43 America/New_York] PHP Stack trace:
+[14-May-2020 10:10:43 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 10:10:43 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[14-May-2020 10:12:08 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[14-May-2020 10:12:08 America/New_York] PHP Stack trace:
+[14-May-2020 10:12:08 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 10:12:08 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[14-May-2020 10:12:11 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[14-May-2020 10:12:11 America/New_York] PHP Stack trace:
+[14-May-2020 10:12:11 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 10:12:11 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[14-May-2020 10:12:15 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[14-May-2020 10:12:15 America/New_York] PHP Stack trace:
+[14-May-2020 10:12:15 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 10:12:15 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[14-May-2020 10:14:14 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[14-May-2020 10:14:14 America/New_York] PHP Stack trace:
+[14-May-2020 10:14:14 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 10:14:14 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[14-May-2020 10:14:37 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[14-May-2020 10:14:37 America/New_York] PHP Stack trace:
+[14-May-2020 10:14:37 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 10:14:37 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[14-May-2020 10:15:52 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[14-May-2020 10:15:52 America/New_York] PHP Stack trace:
+[14-May-2020 10:15:52 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[14-May-2020 10:15:52 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[15-May-2020 08:15:52 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[15-May-2020 08:15:52 America/New_York] PHP Stack trace:
+[15-May-2020 08:15:52 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[15-May-2020 08:15:52 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[15-May-2020 08:16:52 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[15-May-2020 08:16:52 America/New_York] PHP Stack trace:
+[15-May-2020 08:16:52 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[15-May-2020 08:16:52 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[15-May-2020 08:39:29 America/New_York] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 2
+[15-May-2020 08:39:29 America/New_York] PHP Stack trace:
+[15-May-2020 08:39:29 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[15-May-2020 08:39:29 America/New_York] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 2
+[15-May-2020 08:39:29 America/New_York] PHP Stack trace:
+[15-May-2020 08:39:29 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[15-May-2020 18:09:29 Asia/Kolkata] PHP Notice:  Undefined variable: mysqli in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 8
+[15-May-2020 18:09:29 Asia/Kolkata] PHP Stack trace:
+[15-May-2020 18:09:29 Asia/Kolkata] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[15-May-2020 18:09:29 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 8
+[15-May-2020 18:09:29 Asia/Kolkata] PHP Stack trace:
+[15-May-2020 18:09:29 Asia/Kolkata] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[15-May-2020 18:09:29 Asia/Kolkata] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:8
+[15-May-2020 08:43:05 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[15-May-2020 08:43:05 America/New_York] PHP Stack trace:
+[15-May-2020 08:43:05 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[15-May-2020 08:43:05 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[15-May-2020 08:46:26 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[15-May-2020 08:46:26 America/New_York] PHP Stack trace:
+[15-May-2020 08:46:26 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[15-May-2020 08:46:26 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[15-May-2020 10:31:05 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/checklogin.php on line 4
+[15-May-2020 10:31:05 America/New_York] PHP Stack trace:
+[15-May-2020 10:31:05 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/manage-customer.php:0
+[15-May-2020 10:31:05 America/New_York] PHP   2. check_login() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/manage-customer.php:5
+[16-May-2020 05:47:26 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[16-May-2020 05:47:26 America/New_York] PHP Stack trace:
+[16-May-2020 05:47:26 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[16-May-2020 05:47:26 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[16-May-2020 06:52:39 America/New_York] PHP Notice:  Undefined index: addedby in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/add-customer.php on line 9
+[16-May-2020 06:52:39 America/New_York] PHP Stack trace:
+[16-May-2020 06:52:39 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/add-customer.php:0
+[16-May-2020 07:04:16 America/New_York] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 2
+[16-May-2020 07:04:16 America/New_York] PHP Stack trace:
+[16-May-2020 07:04:16 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[16-May-2020 07:04:16 America/New_York] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 2
+[16-May-2020 07:04:16 America/New_York] PHP Stack trace:
+[16-May-2020 07:04:16 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[16-May-2020 16:34:16 Asia/Kolkata] PHP Notice:  Undefined variable: mysqli in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 8
+[16-May-2020 16:34:16 Asia/Kolkata] PHP Stack trace:
+[16-May-2020 16:34:16 Asia/Kolkata] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[16-May-2020 16:34:16 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 8
+[16-May-2020 16:34:16 Asia/Kolkata] PHP Stack trace:
+[16-May-2020 16:34:16 Asia/Kolkata] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[16-May-2020 16:34:16 Asia/Kolkata] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:8
+[16-May-2020 08:36:44 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[16-May-2020 08:36:44 America/New_York] PHP Stack trace:
+[16-May-2020 08:36:44 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[16-May-2020 08:36:44 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[16-May-2020 15:48:38 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[16-May-2020 15:48:38 America/New_York] PHP Stack trace:
+[16-May-2020 15:48:38 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[16-May-2020 15:48:38 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[17-May-2020 11:59:28 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[17-May-2020 11:59:28 America/New_York] PHP Stack trace:
+[17-May-2020 11:59:28 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[17-May-2020 11:59:28 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[18-May-2020 03:02:13 America/New_York] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 2
+[18-May-2020 03:02:13 America/New_York] PHP Stack trace:
+[18-May-2020 03:02:13 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[18-May-2020 03:02:13 America/New_York] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 2
+[18-May-2020 03:02:13 America/New_York] PHP Stack trace:
+[18-May-2020 03:02:13 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[18-May-2020 12:32:13 Asia/Kolkata] PHP Notice:  Undefined variable: mysqli in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 8
+[18-May-2020 12:32:13 Asia/Kolkata] PHP Stack trace:
+[18-May-2020 12:32:13 Asia/Kolkata] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[18-May-2020 12:32:13 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 8
+[18-May-2020 12:32:13 Asia/Kolkata] PHP Stack trace:
+[18-May-2020 12:32:13 Asia/Kolkata] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[18-May-2020 12:32:13 Asia/Kolkata] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:8
+[18-May-2020 07:09:13 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[18-May-2020 07:09:13 America/New_York] PHP Stack trace:
+[18-May-2020 07:09:13 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[18-May-2020 07:09:13 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[18-May-2020 07:10:30 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[18-May-2020 07:10:30 America/New_York] PHP Stack trace:
+[18-May-2020 07:10:30 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[18-May-2020 07:10:30 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[18-May-2020 07:13:42 America/New_York] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 2
+[18-May-2020 07:13:42 America/New_York] PHP Stack trace:
+[18-May-2020 07:13:42 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[18-May-2020 07:13:42 America/New_York] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 2
+[18-May-2020 07:13:42 America/New_York] PHP Stack trace:
+[18-May-2020 07:13:42 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[18-May-2020 16:43:42 Asia/Kolkata] PHP Notice:  Undefined variable: mysqli in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 8
+[18-May-2020 16:43:42 Asia/Kolkata] PHP Stack trace:
+[18-May-2020 16:43:42 Asia/Kolkata] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[18-May-2020 16:43:42 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 8
+[18-May-2020 16:43:42 Asia/Kolkata] PHP Stack trace:
+[18-May-2020 16:43:42 Asia/Kolkata] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[18-May-2020 16:43:42 Asia/Kolkata] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:8
+[18-May-2020 07:14:48 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[18-May-2020 07:14:48 America/New_York] PHP Stack trace:
+[18-May-2020 07:14:48 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[18-May-2020 07:14:48 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[19-May-2020 08:01:43 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[19-May-2020 08:01:43 America/New_York] PHP Stack trace:
+[19-May-2020 08:01:43 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[19-May-2020 08:01:43 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[19-May-2020 08:05:48 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[19-May-2020 08:05:48 America/New_York] PHP Stack trace:
+[19-May-2020 08:05:48 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[19-May-2020 08:05:48 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[20-May-2020 06:22:01 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[20-May-2020 06:22:01 America/New_York] PHP Stack trace:
+[20-May-2020 06:22:01 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[20-May-2020 06:22:01 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[20-May-2020 06:26:39 America/New_York] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 2
+[20-May-2020 06:26:39 America/New_York] PHP Stack trace:
+[20-May-2020 06:26:39 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[20-May-2020 06:26:39 America/New_York] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 2
+[20-May-2020 06:26:39 America/New_York] PHP Stack trace:
+[20-May-2020 06:26:39 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[20-May-2020 15:56:39 Asia/Kolkata] PHP Notice:  Undefined variable: mysqli in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 8
+[20-May-2020 15:56:39 Asia/Kolkata] PHP Stack trace:
+[20-May-2020 15:56:39 Asia/Kolkata] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[20-May-2020 15:56:39 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 8
+[20-May-2020 15:56:39 Asia/Kolkata] PHP Stack trace:
+[20-May-2020 15:56:39 Asia/Kolkata] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[20-May-2020 15:56:39 Asia/Kolkata] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:8
+[22-May-2020 05:52:51 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[22-May-2020 05:52:51 America/New_York] PHP Stack trace:
+[22-May-2020 05:52:51 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[22-May-2020 05:52:51 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[22-May-2020 05:53:04 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[22-May-2020 05:53:04 America/New_York] PHP Stack trace:
+[22-May-2020 05:53:04 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[22-May-2020 05:53:04 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[22-May-2020 05:53:45 America/New_York] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 2
+[22-May-2020 05:53:45 America/New_York] PHP Stack trace:
+[22-May-2020 05:53:45 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[22-May-2020 05:53:45 America/New_York] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 2
+[22-May-2020 05:53:45 America/New_York] PHP Stack trace:
+[22-May-2020 05:53:45 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[22-May-2020 15:23:45 Asia/Kolkata] PHP Notice:  Undefined variable: mysqli in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 8
+[22-May-2020 15:23:45 Asia/Kolkata] PHP Stack trace:
+[22-May-2020 15:23:45 Asia/Kolkata] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[22-May-2020 15:23:45 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 8
+[22-May-2020 15:23:45 Asia/Kolkata] PHP Stack trace:
+[22-May-2020 15:23:45 Asia/Kolkata] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[22-May-2020 15:23:45 Asia/Kolkata] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:8
+[22-May-2020 06:00:15 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[22-May-2020 06:00:15 America/New_York] PHP Stack trace:
+[22-May-2020 06:00:15 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[22-May-2020 06:00:15 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[22-May-2020 06:02:24 America/New_York] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 2
+[22-May-2020 06:02:24 America/New_York] PHP Stack trace:
+[22-May-2020 06:02:24 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[22-May-2020 06:02:24 America/New_York] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 2
+[22-May-2020 06:02:24 America/New_York] PHP Stack trace:
+[22-May-2020 06:02:24 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[22-May-2020 15:32:24 Asia/Kolkata] PHP Notice:  Undefined variable: mysqli in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 8
+[22-May-2020 15:32:24 Asia/Kolkata] PHP Stack trace:
+[22-May-2020 15:32:24 Asia/Kolkata] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[22-May-2020 15:32:24 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 8
+[22-May-2020 15:32:24 Asia/Kolkata] PHP Stack trace:
+[22-May-2020 15:32:24 Asia/Kolkata] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[22-May-2020 15:32:24 Asia/Kolkata] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:8
+[23-May-2020 06:20:44 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[23-May-2020 06:20:44 America/New_York] PHP Stack trace:
+[23-May-2020 06:20:44 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[23-May-2020 06:20:44 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[23-May-2020 06:22:32 America/New_York] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 2
+[23-May-2020 06:22:32 America/New_York] PHP Stack trace:
+[23-May-2020 06:22:32 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[23-May-2020 06:22:32 America/New_York] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 2
+[23-May-2020 06:22:32 America/New_York] PHP Stack trace:
+[23-May-2020 06:22:32 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[23-May-2020 15:52:32 Asia/Kolkata] PHP Notice:  Undefined variable: mysqli in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 8
+[23-May-2020 15:52:32 Asia/Kolkata] PHP Stack trace:
+[23-May-2020 15:52:32 Asia/Kolkata] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[23-May-2020 15:52:32 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 8
+[23-May-2020 15:52:32 Asia/Kolkata] PHP Stack trace:
+[23-May-2020 15:52:32 Asia/Kolkata] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[23-May-2020 15:52:32 Asia/Kolkata] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:8
+[23-May-2020 07:30:43 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[23-May-2020 07:30:43 America/New_York] PHP Stack trace:
+[23-May-2020 07:30:43 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[23-May-2020 07:30:43 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[23-May-2020 07:33:13 America/New_York] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 2
+[23-May-2020 07:33:13 America/New_York] PHP Stack trace:
+[23-May-2020 07:33:13 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[23-May-2020 07:33:13 America/New_York] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 2
+[23-May-2020 07:33:13 America/New_York] PHP Stack trace:
+[23-May-2020 07:33:13 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[23-May-2020 17:03:13 Asia/Kolkata] PHP Notice:  Undefined variable: mysqli in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 8
+[23-May-2020 17:03:13 Asia/Kolkata] PHP Stack trace:
+[23-May-2020 17:03:13 Asia/Kolkata] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[23-May-2020 17:03:13 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 8
+[23-May-2020 17:03:13 Asia/Kolkata] PHP Stack trace:
+[23-May-2020 17:03:13 Asia/Kolkata] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[23-May-2020 17:03:13 Asia/Kolkata] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:8
+[28-May-2020 10:50:51 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[28-May-2020 10:50:51 America/New_York] PHP Stack trace:
+[28-May-2020 10:50:51 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[28-May-2020 10:50:51 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[29-May-2020 04:13:12 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[29-May-2020 04:13:12 America/New_York] PHP Stack trace:
+[29-May-2020 04:13:12 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[29-May-2020 04:13:12 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[29-May-2020 04:15:02 America/New_York] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 2
+[29-May-2020 04:15:02 America/New_York] PHP Stack trace:
+[29-May-2020 04:15:02 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[29-May-2020 04:15:02 America/New_York] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 2
+[29-May-2020 04:15:02 America/New_York] PHP Stack trace:
+[29-May-2020 04:15:02 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[29-May-2020 13:45:02 Asia/Kolkata] PHP Notice:  Undefined variable: mysqli in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 8
+[29-May-2020 13:45:02 Asia/Kolkata] PHP Stack trace:
+[29-May-2020 13:45:02 Asia/Kolkata] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[29-May-2020 13:45:02 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 8
+[29-May-2020 13:45:02 Asia/Kolkata] PHP Stack trace:
+[29-May-2020 13:45:02 Asia/Kolkata] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[29-May-2020 13:45:02 Asia/Kolkata] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:8
+[29-May-2020 04:17:57 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[29-May-2020 04:17:57 America/New_York] PHP Stack trace:
+[29-May-2020 04:17:57 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[29-May-2020 04:17:57 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[29-May-2020 04:19:08 America/New_York] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 2
+[29-May-2020 04:19:08 America/New_York] PHP Stack trace:
+[29-May-2020 04:19:08 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[29-May-2020 04:19:08 America/New_York] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 2
+[29-May-2020 04:19:08 America/New_York] PHP Stack trace:
+[29-May-2020 04:19:08 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[29-May-2020 13:49:08 Asia/Kolkata] PHP Notice:  Undefined variable: mysqli in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 8
+[29-May-2020 13:49:08 Asia/Kolkata] PHP Stack trace:
+[29-May-2020 13:49:08 Asia/Kolkata] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[29-May-2020 13:49:08 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 8
+[29-May-2020 13:49:08 Asia/Kolkata] PHP Stack trace:
+[29-May-2020 13:49:08 Asia/Kolkata] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[29-May-2020 13:49:08 Asia/Kolkata] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:8
+[29-May-2020 04:50:00 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[29-May-2020 04:50:00 America/New_York] PHP Stack trace:
+[29-May-2020 04:50:00 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[29-May-2020 04:50:00 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[29-May-2020 09:02:42 America/New_York] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 2
+[29-May-2020 09:02:42 America/New_York] PHP Stack trace:
+[29-May-2020 09:02:42 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[29-May-2020 09:02:42 America/New_York] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 2
+[29-May-2020 09:02:42 America/New_York] PHP Stack trace:
+[29-May-2020 09:02:42 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[29-May-2020 18:32:42 Asia/Kolkata] PHP Notice:  Undefined variable: mysqli in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 8
+[29-May-2020 18:32:42 Asia/Kolkata] PHP Stack trace:
+[29-May-2020 18:32:42 Asia/Kolkata] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[29-May-2020 18:32:42 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 8
+[29-May-2020 18:32:42 Asia/Kolkata] PHP Stack trace:
+[29-May-2020 18:32:42 Asia/Kolkata] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[29-May-2020 18:32:42 Asia/Kolkata] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:8
+[29-May-2020 10:19:21 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[29-May-2020 10:19:21 America/New_York] PHP Stack trace:
+[29-May-2020 10:19:21 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[29-May-2020 10:19:21 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[29-May-2020 10:19:39 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[29-May-2020 10:19:39 America/New_York] PHP Stack trace:
+[29-May-2020 10:19:39 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[29-May-2020 10:19:39 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:76
+[30-May-2020 05:26:25 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[30-May-2020 05:26:25 America/New_York] PHP Stack trace:
+[30-May-2020 05:26:25 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[30-May-2020 05:26:25 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:78
+[30-May-2020 05:45:06 America/New_York] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 2
+[30-May-2020 05:45:06 America/New_York] PHP Stack trace:
+[30-May-2020 05:45:06 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[30-May-2020 05:45:06 America/New_York] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 2
+[30-May-2020 05:45:06 America/New_York] PHP Stack trace:
+[30-May-2020 05:45:06 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[30-May-2020 15:15:06 Asia/Kolkata] PHP Notice:  Undefined variable: mysqli in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 8
+[30-May-2020 15:15:06 Asia/Kolkata] PHP Stack trace:
+[30-May-2020 15:15:06 Asia/Kolkata] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[30-May-2020 15:15:06 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 8
+[30-May-2020 15:15:06 Asia/Kolkata] PHP Stack trace:
+[30-May-2020 15:15:06 Asia/Kolkata] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[30-May-2020 15:15:06 Asia/Kolkata] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:8
+[30-May-2020 06:15:45 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[30-May-2020 06:15:45 America/New_York] PHP Stack trace:
+[30-May-2020 06:15:45 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[30-May-2020 06:15:45 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:78
+[30-May-2020 06:17:11 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[30-May-2020 06:17:11 America/New_York] PHP Stack trace:
+[30-May-2020 06:17:11 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[30-May-2020 06:17:11 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:78
+[30-May-2020 06:18:30 America/New_York] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 2
+[30-May-2020 06:18:30 America/New_York] PHP Stack trace:
+[30-May-2020 06:18:30 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[30-May-2020 06:18:30 America/New_York] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 2
+[30-May-2020 06:18:30 America/New_York] PHP Stack trace:
+[30-May-2020 06:18:30 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[30-May-2020 15:48:30 Asia/Kolkata] PHP Notice:  Undefined variable: mysqli in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 8
+[30-May-2020 15:48:30 Asia/Kolkata] PHP Stack trace:
+[30-May-2020 15:48:30 Asia/Kolkata] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[30-May-2020 15:48:30 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 8
+[30-May-2020 15:48:30 Asia/Kolkata] PHP Stack trace:
+[30-May-2020 15:48:30 Asia/Kolkata] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[30-May-2020 15:48:30 Asia/Kolkata] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:8
+[30-May-2020 11:19:24 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[30-May-2020 11:19:24 America/New_York] PHP Stack trace:
+[30-May-2020 11:19:24 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[30-May-2020 11:19:24 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:78
+[31-May-2020 09:33:05 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[31-May-2020 09:33:05 America/New_York] PHP Stack trace:
+[31-May-2020 09:33:05 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[31-May-2020 09:33:05 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:78
+[31-May-2020 10:30:50 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[31-May-2020 10:30:50 America/New_York] PHP Stack trace:
+[31-May-2020 10:30:50 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[31-May-2020 10:30:50 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:78
+[31-May-2020 10:31:54 America/New_York] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 2
+[31-May-2020 10:31:54 America/New_York] PHP Stack trace:
+[31-May-2020 10:31:54 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[31-May-2020 10:31:54 America/New_York] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 2
+[31-May-2020 10:31:54 America/New_York] PHP Stack trace:
+[31-May-2020 10:31:54 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[31-May-2020 20:01:54 Asia/Kolkata] PHP Notice:  Undefined variable: mysqli in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 8
+[31-May-2020 20:01:54 Asia/Kolkata] PHP Stack trace:
+[31-May-2020 20:01:54 Asia/Kolkata] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[31-May-2020 20:01:54 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php on line 8
+[31-May-2020 20:01:54 Asia/Kolkata] PHP Stack trace:
+[31-May-2020 20:01:54 Asia/Kolkata] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:0
+[31-May-2020 20:01:54 Asia/Kolkata] PHP   2. mysqli_query() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/logout.php:8
+[31-May-2020 10:34:32 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[31-May-2020 10:34:32 America/New_York] PHP Stack trace:
+[31-May-2020 10:34:32 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[31-May-2020 10:34:32 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:78
+[31-May-2020 23:38:00 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/checklogin.php on line 4
+[31-May-2020 23:38:00 America/New_York] PHP Stack trace:
+[31-May-2020 23:38:00 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/dashboard.php:0
+[31-May-2020 23:38:00 America/New_York] PHP   2. check_login() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/dashboard.php:5
+[01-Jun-2020 05:03:48 America/New_York] PHP Notice:  Undefined index: id in /home/kamluzmh/device.digitalzilla.xyz/Data_manager/includes/header.php on line 2
+[01-Jun-2020 05:03:48 America/New_York] PHP Stack trace:
+[01-Jun-2020 05:03:48 America/New_York] PHP   1. {main}() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:0
+[01-Jun-2020 05:03:48 America/New_York] PHP   2. include() /home/kamluzmh/device.digitalzilla.xyz/Data_manager/index.php:78
